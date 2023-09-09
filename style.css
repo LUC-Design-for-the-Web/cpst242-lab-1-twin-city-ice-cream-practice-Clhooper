@@ -306,7 +306,14 @@
 					  width: 350px;
 					  text-align: center;
 					  margin: auto;
+
 				  }
+				  .bottomfooter{
+					width: 100%;
+					  clear: both;
+					  height: 75px;
+					  background-color: #474747;
+				}
 
 			  }
 			  /* smaller than 480 pixels */
